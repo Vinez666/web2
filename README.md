@@ -109,7 +109,7 @@ echo "Nama : $nama";
 </html>
 ```
 
-#Output
+# Output
 ![phpdasar4](https://user-images.githubusercontent.com/127708664/226675148-9e201610-b436-447b-907a-3e312ae9ef0c.png)
 
 # Code Php Dasar 5
@@ -194,7 +194,7 @@ Echo "/$nama_hari";
 </html>
 ```
 
-#Output
+# Output
 ![phpdasar7](https://user-images.githubusercontent.com/127708664/226676055-12cdfe83-45f8-440c-95a9-9ea3d262e50d.png)
 
 # Code Php Dasar 8
